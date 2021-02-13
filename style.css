@@ -1,0 +1,54 @@
+#emoji-container {
+    width: 100%;
+    height: 300px;
+    background-color: #f3d250;
+}
+
+#input {
+    background-color: #fd8888;
+    height: 70px;
+    padding: 40px;
+    outline-style: none;
+}
+
+#btn-containers {
+    background-color: #90ccf4;
+    height: 150px;
+}
+
+body {
+    background-color: #ececec;
+    margin: 0;
+    font-family: Baloo;
+}
+
+span {
+    margin: 5px;
+    color: black;
+    font-size: 40px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #5da2d5
+}
+
+input {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border: none;
+    outline-style: none;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 30px;
+    font-family: Baloo;
+    outline-style: none;
+}
